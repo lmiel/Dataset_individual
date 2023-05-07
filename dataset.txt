@@ -1,0 +1,3 @@
+como el dataset pesa demasiado, aqui está el link para donde descargarlo
+
+https://www.kaggle.com/datasets/gpreda/covid19-tweets
